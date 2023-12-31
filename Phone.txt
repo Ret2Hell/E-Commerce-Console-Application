@@ -1,0 +1,4 @@
+1000,Samsung Galaxy A05s,159.5,55,4,64,50,Samsung,Snapdragon 680
+1001,ZTE nubia Red Magic 9 Pro,649.8,20,12,256,50,Nubia,Snapdragon 8 Gen 3
+1002,vivo X100 Pro,799.0,14,16,512,50,Vivo,Mediatek Dimensity 9300
+1003,Apple iPhone 14 Pro Max,1599.0,12,16,512,50,Apple,A15 Bionic
